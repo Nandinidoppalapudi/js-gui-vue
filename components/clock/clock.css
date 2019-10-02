@@ -2,7 +2,7 @@ html,body {
     height: 100%;
 }
 body {
-    background: white;
+    background: red;
     background-size: 100%;
 }
 p {
@@ -10,7 +10,7 @@ p {
     padding: 0;
 }
 #clock {
-    font-family: 'Share Tech Mono', monospace;
+/*     font-family: 'Share Tech Mono', monospace; */
     color:red;
     text-align: center;
     position: absolute;

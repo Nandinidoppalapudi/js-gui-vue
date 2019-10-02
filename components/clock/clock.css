@@ -18,7 +18,7 @@ p {
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
-    color: #daf6ff;
+    color: red;
     text-shadow: 0 0 20px rgba(10, 175, 230, 1),  0 0 20px rgba(10, 175, 230, 0);
     .time {
         letter-spacing: 0.05em;

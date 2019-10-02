@@ -16,8 +16,8 @@ p {
     position: absolute;
     left: 50%;
     top: 50%;
-    transform: translate(-50%, -50%);
-    color: red;
+/*     transform: translate(-50%, -50%); */
+/*     color: red; */
 /*     text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; */
     .time {
         letter-spacing: 0.05em;

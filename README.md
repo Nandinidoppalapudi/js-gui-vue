@@ -7,7 +7,7 @@
 ## Links
 
 - [Demo](https://nandinidoppalapudi.github.io/js-gui-vue/)
-- [Source](https://github.com/denisecase/js-gui-vue)
+- [Source](https://github.com/Nandinidoppalapudi/js-gui-vue)
 
 ## Requirements
 

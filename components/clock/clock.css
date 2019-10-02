@@ -18,7 +18,7 @@ p {
     top: 50%;
     transform: translate(-50%, -50%);
     color: red;
-    text-shadow: 2px 2px #FF0000;
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
     .time {
         letter-spacing: 0.05em;
         font-size: 80px;

@@ -16,25 +16,24 @@ p {
     position: absolute;
     left: 50%;
     top: 50%;
-/*     transform: translate(-50%, -50%); */
-/*     color: red; */
+    transform: translate(-50%, -50%);
+    color: blue;
 /*     text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF; */
     .time {
         letter-spacing: 0.05em;
         font-size: 80px;
         padding: 5px 0;
-        color: blue
+       
     }
     .date {
         letter-spacing: 0.1em;
         font-size: 24px;
-        color: blue
         
     }
     .text {
         letter-spacing: 0.1em;
         font-size: 12px;
         padding: 20px 0 0;
-        color: blue
+     
     }
 }
